@@ -68,3 +68,10 @@ Implementar el videojuego **Robots**, una variante del clásico juego Chase, apl
 
 ---
 
+## Interfaz
+
+### Pantalla de inicio
+![alt text](image.png)
+
+### Juego
+![alt text](image-1.png)
